@@ -5,11 +5,12 @@
 }
 
 :root {
-  --quite-small: 5px;
-  --small: 10px;
-  --mid: 20px;
-  --large: 50px;
-  --very-large: 100px;
+  --quite-small: 0.3rem;
+  --small: 0.625rem;
+  --mid: 1.25rem;
+  --large: 1.875rem;
+  --larger: 3.125rem;
+  --very-large: 6.25rem;
   /* colors */
   --Bright-Red: hsl(12, 88%, 59%);
   --Dark-Blue: hsl(228, 39%, 23%);
@@ -22,4 +23,225 @@
 body {
   margin: 0;
   font-family: 'Be Vietnam', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin: var(--larger) var(--very-large);
+}
+
+.container::before {
+  content: '';
+  background-image: url(images/bg-tablet-pattern.svg);
+  position: absolute;
+  top: -10%;
+  left: 60%;
+  height: 55%;
+  width: 55%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+
+.btn {
+  text-decoration: none;
+  color: inherit;
+  background-color: var(--Bright-Red);
+  padding: var(--small) var(--mid);
+  border-radius: var(--mid);
+  color: #ffffff;
+}
+
+section {
+  margin-bottom: var(--larger);
+}
+
+/* Header */
+#header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: var(--larger);
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.nav > li {
+  list-style-type: none;
+  margin-left: var(--large);
+}
+
+.nav > li:first-child {
+  margin-left: 0;
+}
+
+.nav > li > a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:active,
+.nav > li > a:active {
+  color: var(--Dark-Grayish-Blue);
+}
+
+/* Hero */
+#hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: max-content;
+  gap: var(--large) 0;
+}
+
+.hero-start {
+  padding: var(--large) calc(var(--very-large) + var(--large)) 0 0;
+}
+.hero-start h1 {
+  font-weight: 700;
+  font-size: calc(var(--large) + var(--small));
+  margin-bottom: var(--mid);
+}
+.grey {
+  color: var(--Dark-Grayish-Blue);
+  font-weight: 400;
+  margin-bottom: var(--mid);
+  padding-right: var(--mid);
+}
+.illustration {
+  margin: auto;
+  height: 386px;
+  width: 430px;
+}
+
+.hero-end {
+  padding: 0 calc(var(--very-large) + var(--large)) 0 0;
+}
+
+.hero-end h2 {
+  padding-right: calc(var(--larger) + var(--mid));
+  margin-bottom: var(--large);
+  font-size: var(--large);
+}
+
+.hero-end p {
+  padding-right: calc(var(--very-large) + var(--larger));
+  margin-bottom: var(--large);
+  color: var(--Dark-Grayish-Blue);
+  font-weight: 400;
+}
+
+@media (max-width: 1300px) {
+  /* :root {
+    --quite-small: 0.2rem;
+    --small: 0.3rem;
+    --mid: 0.75rem;
+    --large: 1rem;
+    --larger: 1.6rem;
+    --very-large: 3.15rem;
+  } */
+
+  .nav > li {
+    margin-left: var(--small);
+  }
+
+  #hero {
+    gap: var(--large) var(--small);
+  }
+
+  .hero-start {
+    padding: var(--large) var(--larger) 0 0;
+  }
+  .hero-start h1 {
+    font-size: var(--large);
+  }
+
+  .grey {
+    color: var(--Dark-Grayish-Blue);
+    font-weight: 400;
+  }
+
+  .hero-end {
+    padding: 0 var(--small) 0 0;
+  }
+
+  .hero-end h2 {
+    padding-right: var(--mid);
+    font-size: var(--large);
+  }
+
+  .hero-end p {
+    padding-right: var(--mid);
+  }
+}
+
+/* feature-list */
+
+.feature-list ol {
+  counter-reset: myOrderedList;
+  padding: 0;
+}
+
+.list-style {
+  list-style-type: none;
+  position: relative;
+}
+
+.list-style h5 {
+  display: inline-block;
+  margin-bottom: var(--quite-small);
+  font-weight: 700;
+}
+
+.list-style p {
+  padding-left: var(--larger);
+  margin-bottom: var(--mid);
+  color: var(--Dark-Grayish-Blue);
+  font-weight: 400;
+}
+
+.list-style:before {
+  counter-increment: myOrderedList;
+  content: '0' counter(myOrderedList);
+  background-color: var(--Bright-Red);
+  padding: 1px var(--small);
+  border-radius: var(--mid);
+  color: #ffffff;
+  margin-right: var(--small);
+  position: relative;
+}
+
+/* Frontend mentor attribution */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
