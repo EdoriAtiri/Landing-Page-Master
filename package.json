@@ -1,0 +1,26 @@
+{
+  "name": "manage-landing-page-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "script.js",
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdoriAtiri/Landing-Page-Master.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdoriAtiri/Landing-Page-Master/issues"
+  },
+  "homepage": "https://github.com/EdoriAtiri/Landing-Page-Master#readme"
+}

@@ -139,6 +139,11 @@ a:active,
     display: none;
   }
 
+  #menu-open:active,
+  #menu-close:active {
+    transform: scale(0.9);
+  }
+
   .nav {
     position: absolute;
     flex-direction: column;
