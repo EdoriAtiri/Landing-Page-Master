@@ -14,7 +14,7 @@
   /* colors */
   --Bright-Red: hsl(12, 88%, 59%);
   --Dark-Blue: hsl(228, 39%, 23%);
-  --Dark-Grayish-Blue: hsl(227, 12%, 61%);
+  --Dark-Grayish-Blue: hsl(227, 12%, 13%);
   --Very-Dark-Blue: hsl(233, 12%, 13%);
   --Very-Pale-Red: hsl(13, 100%, 96%);
   --Very-Light-Gray: hsl(0, 0%, 98%);
@@ -54,12 +54,24 @@ p {
 }
 
 .btn {
+  display: flex;
+  width: 8rem;
+  justify-content: center;
+  align-items: center;
   text-decoration: none;
   color: inherit;
   background-color: var(--Bright-Red);
   padding: var(--small) var(--mid);
   border-radius: var(--mid);
   color: #ffffff;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.btn:hover {
+  background-color: #ffffff;
+  color: var(--Bright-Red);
+  outline: 1px solid var(--Bright-Red);
 }
 
 section {
@@ -93,6 +105,7 @@ section {
 .nav > li {
   list-style-type: none;
   margin-left: var(--large);
+  cursor: pointer;
 }
 
 .nav > li:first-child {
@@ -102,11 +115,13 @@ section {
 .nav > li > a {
   text-decoration: none;
   color: #000;
+  padding-bottom: var(--small);
 }
 
 .nav > li > a:hover {
   color: var(--Bright-Red);
-  transition: color 0.3s ease-in;
+  border-bottom: 1px solid;
+  transition: color 0.3s ease-in, border-bottom 0.3s ease-in;
 }
 
 a:active,
@@ -141,6 +156,8 @@ a:active,
   margin: auto;
   height: 386px;
   width: 430px;
+  border-radius: 10px;
+  box-shadow: -1px 1px 12px 0.2px var(--Bright-Red);
 }
 
 .hero-end {
@@ -235,8 +252,13 @@ a:active,
   z-index: -1;
 }
 
-#testimonial > h1 {
+#testimonial > h2 {
   margin-bottom: var(--mid);
+  font-size: var(--large);
+}
+
+#testimonial .btn {
+  margin: auto;
 }
 
 .card {
@@ -283,6 +305,11 @@ a:active,
   color: var(--Bright-Red);
   background-color: #ffffff;
   margin-right: 10%;
+}
+#call-to-action .btn:hover {
+  background-color: var(--Bright-Red);
+  color: #ffffff;
+  outline: 1px solid #fff;
 }
 #call-to-action h1 {
   color: #ffffff;
@@ -482,14 +509,16 @@ a:active,
     width: 100%;
     height: 300px;
     background-color: #ffffff;
-    top: 40%;
+    top: 60%;
     left: 0%;
-    transition: opacity 0.3s ease-in;
-    opacity: 0;
+    transform: translateX(150%);
+    border: 1px solid var(--Bright-Red);
+    border-radius: var(--small);
+    transition: transform 0.3s ease-in;
   }
 
   .flyIn {
-    opacity: 1;
+    transform: translateX(0%);
   }
 
   .nav > li {
@@ -657,13 +686,14 @@ a:active,
     margin: auto;
     height: 269px;
     width: 300px;
+    box-shadow: 0 0 0 0;
   }
 
   .list-style h5 {
     width: 87%;
   }
 
-  .glide__track {
-    /* width: 90% !important; */
-  }
+  /* .glide__track {
+    width: 90% !important;
+  } */
 }
