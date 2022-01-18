@@ -21,7 +21,7 @@
 93C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\yaml\map.js132869796088113784 0
 97C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\fast-url-parser132869796074900798 1
 165C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-ordered-values\dist\rules\border.js132869796168296100 0
-73C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist132869813694443828 1
+73C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist132869824669636354 1
 75C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\.cache132849417264115331 1
 79C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\.gitignore132869801725689009 0
 126C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\csso\node_modules\mdn-data\css\at-rules.json121436361000000000 0
@@ -115,7 +115,7 @@
 90C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\punycode132869796089874197 1
 78C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\.cache\b1132512151380000000 1
 110C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\transformer-html\lib132869796136791169 1
-79C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\index.html132869798531508536 0
+79C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\index.html132869821377777063 0
 109C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\which-typed-array\README.md132869796082792577 0
 81C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\package.json132869800432982134 0
 151C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser\create.js132869796165385425 0
@@ -150,7 +150,7 @@
 125C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\postcss-merge-longhand\dist\lib\canMerge.js121436361000000000 0
 106C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\is-color-stop\.npmignore131454230780000000 0
 153C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\postcss-normalize-unicode\node_modules\postcss-value-parser\lib\unit.js121436361000000000 0
-78C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\style.css132869812175152656 0
+78C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\style.css132869821668511960 0
 127C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\lmdb\prebuilds\darwin-x64\electron.abi99.node132869796116100116 0
 114C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\https-browserify\readme.markdown132869796091574572 0
 113C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\runtime-browser-hmr\lib132869796132813928 1
@@ -2904,7 +2904,7 @@
 95C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\url\README.md132869796069439559 0
 144C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-htmlnano\node_modules\resolve-from\readme.md132869796070869890 0
 100C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\terser\lib\size.js132869796107028083 0
-92C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.5b021870.css132869813694183777 0
+92C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.5b021870.css132869824669326278 0
 112C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\node-resolver-core\src132869796109468619 1
 113C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\caniuse-lite\data\regions\MZ.js132869796176327893 0
 108C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\object.assign\package.json132507068800000000 0
@@ -3081,7 +3081,7 @@
 115C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\modules\es.reflect.set.js132869796122011451 0
 123C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\type-fest\source\require-exactly-one.d.ts132869796102897125 0
 119C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\type-fest\source\set-return-type.d.ts132869796103927365 0
-105C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\illustration-intro.7387ea0c.svg132869813646542675 0
+105C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\illustration-intro.7387ea0c.svg132869824625954658 0
 145C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\common\List.js132869796170946690 0
 115C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\type-fest\source\stringified.d.ts132869796104337457 0
 117C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\type-fest\source\tsconfig-json.d.ts132869796104687536 0
@@ -4144,7 +4144,7 @@
 103C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\nanoid\async\index.js132869796084432944 0
 146C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\split2\node_modules\readable-stream\lib\internal\streams\from.js132869796091634621 0
 117C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\es-abstract\2021\thisStringValue.js132869796181679118 0
-92C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.f517577d.css132869813694183777 0
+92C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.f517577d.css132869824669336285 0
 112C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\fast-glob\out\utils\index.d.ts132869796105697756 0
 105C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\astring\dist\astring.js132869796083392724 0
 109C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\path-browserify\security.md132869796100916686 0
@@ -4388,7 +4388,7 @@
 118C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\features\weak-set\add-all.js132869796100086513 0
 106C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\shebang-command\index.js132869796076991273 0
 147C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\postcss-minify-params\node_modules\postcss-value-parser\README.md121436361000000000 0
-101C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\icon-hamburger.b18ef3a5.svg132869813646542675 0
+101C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\icon-hamburger.b18ef3a5.svg132869824625954658 0
 110C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\shebang-command\package.json132869796075620966 0
 104C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\querystring\History.md132869796071960117 0
 155C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss\lib\css-syntax-error.d.ts132869796104157426 0
@@ -4765,7 +4765,6 @@
 121C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\highlight.js\styles\solarized-light.css132869796109258590 0
 139C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c132869796109818707 0
 107C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\querystring-es3\encode.js132869796088453865 0
-92C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.ddb2e9ff.css132869813694183777 0
 116C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\core\src\public\Symbols.js132869796166255621 0
 116C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\csso\node_modules\css-tree\LICENSE132869796191700647 0
 151C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\transformer-postcss\node_modules\postcss\lib\stringifier.d.ts132869796106828040 0
@@ -6844,6 +6843,7 @@
 116C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\stable\string\match-all.js132869796140031881 0
 113C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\caniuse-lite\data\regions\BJ.js132869796163334958 0
 117C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\log-symbols\node_modules\color-name132869796070259735 1
+96C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.199e303b.css.map132869824669616362 0
 145C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-cssnano\node_modules\postcss\lib\at-rule.d.ts132869796103007168 0
 94C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\is-json\test132869796079461820 1
 130C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\log-symbols\node_modules\supports-color\index.js132869796069469561 0
@@ -7826,7 +7826,7 @@
 127C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\modules\es.typed-array.int16-array.js132869796123451786 0
 101C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\highlight.js\styles132869796117810507 1
 100C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\highlight.js\types132869796120541127 1
-100C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\favicon-32x32.fe944b6e.png132869813646542675 0
+100C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\favicon-32x32.fe944b6e.png132869824625944653 0
 158C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-cssnano\node_modules\postcss-normalize-positions\README.md132869796190220317 0
 108C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\color-convert\package.json132507068680000000 0
 111C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\highlight.js\types\index.d.ts132869796120571130 0
@@ -7862,7 +7862,7 @@
 126C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\highlight.js\styles\atelier-savanna-dark.css132869796098556146 0
 115C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\actual\typed-array\map.js132869796139711819 0
 119C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\defaults\node_modules\clone\README.md132869796069459557 0
-96C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.5b021870.css.map132869813694343802 0
+96C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.5b021870.css.map132869824669506330 0
 105C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@glidejs\glide\.babelrc121436361000000000 0
 119C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@nodelib\fs.stat\out\types\index.d.ts132869796088373850 0
 115C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\actual\instance\repeat.js132869796143462679 0
@@ -10714,7 +10714,7 @@
 127C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\features\dom-exception\constructor.js132869796115900085 0
 128C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\stable\string\virtual\code-point-at.js132869796114029655 0
 115C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\stable\typed-array\set.js132869796145178337 0
-97C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\avatar-ali.c1cb1c38.png132869813646552663 0
+97C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\avatar-ali.c1cb1c38.png132869824625954658 0
 116C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\stable\typed-array\some.js132869796146428622 0
 154C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-htmlnano\node_modules\cosmiconfig\dist\getDirectory.js132869796074460698 0
 116C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\stable\typed-array\sort.js132869796146758699 0
@@ -11918,7 +11918,6 @@
 107C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\es\string\virtual132869796150663113 1
 114C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\es\string\virtual\big.js132869796112689373 0
 124C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\es\string\virtual\code-point-at.js132869796113909637 0
-96C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.ddb2e9ff.css.map132869813694423828 0
 120C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\es\string\virtual\ends-with.js132869796118070567 0
 116C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\es\string\virtual\fixed.js132869796128442925 0
 119C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\core-js\es\string\virtual\fontsize.js132869796129733220 0
@@ -12587,7 +12586,7 @@
 107C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\colord\plugins\minify.mjs132869796097285853 0
 103C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\colord\plugins\mix.js132869796079411812 0
 107C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\colord\plugins\names.d.ts132869796104837564 0
-84C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.html132869813694183777 0
+84C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.html132869824669326278 0
 163C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-cssnano\node_modules\css-tree\lib\syntax\function\expression.js132869796191300565 0
 139C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\packager-css\node_modules\postcss\lib\document.js132869796076461177 0
 105C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\colord\plugins\xyz.d.ts132869796105507719 0
@@ -13050,7 +13049,7 @@
 128C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\caniuse-lite\data\features\font-size-adjust.js132869796171986924 0
 130C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\caniuse-lite\data\features\font-unicode-range.js132869796172036933 0
 126C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\caniuse-lite\data\features\form-attribute.js132869796172186995 0
-100C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\avatar-anisha.61df959a.png132869813646552663 0
+100C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\avatar-anisha.61df959a.png132869824625954658 0
 134C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\caniuse-lite\data\features\form-submit-attributes.js132869796172196976 0
 127C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\caniuse-lite\data\features\form-validation.js132869796172226997 0
 129C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@glidejs\glide\src\assets\sass\glide.theme.scss121436361000000000 0
@@ -13923,7 +13922,7 @@
 168C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\transformer-postcss\node_modules\postcss-modules-local-by-default\CHANGELOG.md132869796071500033 0
 163C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\transformer-postcss\node_modules\postcss-modules-local-by-default\LICENSE132869796066934697 0
 165C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\transformer-postcss\node_modules\postcss-modules-local-by-default\README.md132869796073190403 0
-96C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.f517577d.css.map132869813694343802 0
+96C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.f517577d.css.map132869824669546332 0
 159C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\transformer-postcss\node_modules\postcss-modules-local-by-default\src132869796067964928 1
 124C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\transformer-image\lib\loadSharp.js132869796115570027 0
 168C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\transformer-postcss\node_modules\postcss-modules-local-by-default\src\index.js132869796068889432 0
@@ -14367,6 +14366,7 @@
 148C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeMetadata.js132869796169156271 0
 164C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js132869796169176291 0
 154C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeOffCanvasPaths.js132869796169226307 0
+92C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.199e303b.css132869824669326278 0
 152C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeRasterImages.js132869796169236296 0
 152C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeStyleElement.js132869796169276299 0
 145C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeTitle.js132869796169286311 0
@@ -16063,14 +16063,14 @@
 94C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\images\icon-hamburger.svg132487913540000000 0
 94C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\images\icon-pinterest.svg132487913540000000 0
 98C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\images\illustration-intro.svg132487913540000000 0
-101C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\avatar-richard.75fdb386.png132869813646562670 0
-100C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\avatar-shanai.57018bcc.png132869813646552663 0
-104C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\bg-tablet-pattern.3725bd9a.svg132869813646562670 0
-97C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\icon-close.1b8be649.svg132869813646542675 0
-91C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.e14bae38.js132869813694193772 0
-95C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.e14bae38.js.map132869813694373824 0
-97C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\logo-white.554fbdd1.svg132869813646562670 0
-91C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\logo.166807bc.svg132869813646542675 0
+101C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\avatar-richard.75fdb386.png132869824625954658 0
+100C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\avatar-shanai.57018bcc.png132869824625954658 0
+104C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\bg-tablet-pattern.3725bd9a.svg132869824625954658 0
+97C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\icon-close.1b8be649.svg132869824625954658 0
+91C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.e14bae38.js132869824669426319 0
+95C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\index.e14bae38.js.map132869824669556334 0
+97C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\logo-white.554fbdd1.svg132869824625964661 0
+91C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\dist\logo.166807bc.svg132869824625954658 0
 78C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\.cache\01132512151160000000 1
 78C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\.cache\04132512151180000000 1
 78C:\Users\edori\Desktop\Dev\Frontendmentor\manage-landing-page-master\.cache\06132849417251776475 1
