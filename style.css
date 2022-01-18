@@ -189,10 +189,11 @@ a:active,
   position: relative;
 }
 
-.list-style h5 {
+.list-style h3 {
   display: inline-block;
   margin-bottom: var(--quite-small);
   font-weight: 700;
+  font-size: 1rem;
 }
 
 .list-style p {
@@ -273,7 +274,7 @@ a:active,
 .card p {
   color: var(--Dark-Grayish-Blue);
 }
-.card h5 {
+.card h3 {
   font-size: 15px;
 }
 
@@ -576,7 +577,7 @@ a:active,
     font-weight: 400;
   }
 
-  .list-style h5 {
+  .list-style h3 {
     background-color: var(--Very-Pale-Red);
     width: 90%;
   }
@@ -689,7 +690,7 @@ a:active,
     box-shadow: 0 0 0 0;
   }
 
-  .list-style h5 {
+  .list-style h3 {
     width: 87%;
   }
 
